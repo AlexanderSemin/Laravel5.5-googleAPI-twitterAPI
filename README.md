@@ -1,7 +1,7 @@
 # Laravel5.5-googleAPI-twitterAPI
 Simple Educational Project7
 
-##Use API Twitter
+## Use API Twitter
 https://packagist.org/packages/thujohn/twitter
 
 ```composer require thujohn/twitter```
@@ -21,11 +21,11 @@ Now add the alias.
 
 Run 
 ```
-php artisan vendor:publish --provider="Thujohn\Twitter\TwitterServiceProvider" and modify the config file with your own information.
+php artisan vendor:publish --provider="Thujohn\Twitter\TwitterServiceProvider" 
 ```
 /config/ttwitter.php
 
-##config
+## config
  .env file:
 ````
 TWITTER_CONSUMER_KEY=
