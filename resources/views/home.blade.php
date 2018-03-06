@@ -20,4 +20,7 @@
         </div>
     </div>
 </div>
+
+<tweet-component></tweet-component>
+
 @endsection
